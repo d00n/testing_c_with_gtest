@@ -1,3 +1,3 @@
 gcc -c -o max.o max.c
 g++ -c -o test.o test.cpp
-g++ max.o test.o -lgtest -lpthread -o run
+g++ max.o test.o -lgtest -lpthread -o runTest
